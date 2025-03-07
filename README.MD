@@ -25,4 +25,3 @@ selector {
   color: red;
 }
 ```
-<span style="color:#2d9bda">**Blues**</span> 
